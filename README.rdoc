@@ -1,0 +1,16 @@
+== Litmus
+
+This app utilizes Watson's Tone Analyzer API to analyze the emotional tones within a passage of text in order to return a song (using Spotify's Web API) that best matches the emotional scores. In order to better understand the emotional scores, D3 is implemented within our code to show the emotional range as a gradient - with colors to match a specific emotion.
+
+# Our Team
+
+* Sayam Kim (@sayamkim)
+
+* Keri Gannon (@kerianngannon)
+
+* Annie Oh (@omgannie)
+
+* Joel Garrett (@jsgarrett1)
+
+
+You can visit http://play-with-litmus.herokuapp.com to check it out.
